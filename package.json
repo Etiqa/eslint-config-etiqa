@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-etiqa",
+  "version": "1.0.0",
+  "description": "Etiqa ES6 Style Rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Etiqa/eslint-plugin-etiqa"
+  },
+  "license": "MIT"
+}
