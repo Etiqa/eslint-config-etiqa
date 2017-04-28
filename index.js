@@ -15,7 +15,7 @@ module.exports = {
         "comma-spacing": 2,
         "quote-props": [2, "as-needed"],
         "key-spacing": 2,
-        "operator-linebreak": [2, "module.exports = {"],
+        "operator-linebreak": [2, "after"],
         "object-curly-spacing": [2, "always", {
             "arraysInObjects": false
         }],
