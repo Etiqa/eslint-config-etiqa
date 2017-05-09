@@ -1,4 +1,5 @@
 module.exports = {
+    extends: "eslint:recommended",
     rules: {
         "no-alert": 2,
         "no-console": 2,
@@ -41,7 +42,6 @@ module.exports = {
         "browser": true,
         "node": true
     },
-    extends: "eslint:recommended",
     ecmaFeatures: {
         "jsx": true,
         "modules": true,

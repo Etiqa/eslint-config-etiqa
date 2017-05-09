@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-etiqa",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Etiqa JavaScript ES6 Styles configuration",
   "main": "index.js",
   "repository": {
