@@ -1,5 +1,5 @@
 module.exports = {
-    "rules": {
+    rules: {
         "no-alert": 2,
         "no-console": 2,
         "curly": [2, "all"],
@@ -36,13 +36,13 @@ module.exports = {
             "args": "after-used"
         }]
     },
-    "env": {
+    env: {
         "es6": true,
         "browser": true,
         "node": true
     },
-    "extends": "eslint:recommended",
-    "ecmaFeatures": {
+    extends: "eslint:recommended",
+    ecmaFeatures: {
         "jsx": true,
         "modules": true,
         "experimentalObjectRestSpread": true

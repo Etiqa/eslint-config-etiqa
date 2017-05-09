@@ -1,11 +1,14 @@
 {
-  "name": "eslint-plugin-etiqa",
-  "version": "1.0.1",
-  "description": "Etiqa ES6 Style Rules",
+  "name": "eslint-config-etiqa",
+  "version": "0.0.1",
+  "description": "Etiqa JavaScript ES6 Styles configuration",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Etiqa/eslint-plugin-etiqa"
+    "url": "https://github.com/Etiqa/eslint-config-etiqa"
+  },
+  "peerDependencies": {
+    "eslint": ">= 1"
   },
   "license": "MIT"
 }
