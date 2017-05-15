@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-etiqa",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Etiqa JavaScript ES6 Styles configuration",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/Etiqa/eslint-config-etiqa"
   },
   "peerDependencies": {
-    "eslint": ">= 1"
+    "eslint": ">= 3"
   },
   "license": "MIT"
 }
